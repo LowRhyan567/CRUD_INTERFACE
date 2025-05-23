@@ -5,7 +5,7 @@ from decimal import Decimal
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "unifecaf",
+    "password": "senha",
     "database": "Loja_Jogos"
 }
 
